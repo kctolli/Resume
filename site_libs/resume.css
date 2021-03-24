@@ -1,22 +1,18 @@
 /* Fix Margins */
-.pagedjs_page {
-    background: linear-gradient(to left,var(--sidebar-background-color),var(--sidebar-background-color) var(--sidebar-background-width),white var(--sidebar-background-width));
-    --pagedjs-margin-top: 0.35in;
+* {
+    --pagedjs-margin-top: 0.5in;
     --pagedjs-margin-right: 0.25in;
     --pagedjs-margin-left: 0.25in;
-    --pagedjs-margin-bottom: 0.35in;
+    --pagedjs-margin-bottom: 0.5in;
     --pagedjs-pagebox-width: 8.5in;
     --pagedjs-pagebox-height: 11in;
 }
 
-/* Avoid the breaking within a section */
+:root{--sidebar-width: 12rem;}
+
 .blocks {break-inside: avoid;}
 
 /* Make font black & Makes links blue*/
-.pagedjs_sheet {background: white; color: black; font-family: "Helvetica";}
-.aside {background: white; color: black; font-family: "Helvetica";}
-.main {background: white; color: black; font-family: "Helvetica";}
+.pagedjs_sheet, .aside, .main {background: white; color: black; font-family: "Helvetica";}
 
-body, p, ul {color: black; font-family: "Helvetica";}
-
-a {color: blue;}
+body, p, ul, a {background: white; color: black; font-family: "Helvetica";}

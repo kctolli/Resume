@@ -65,9 +65,3 @@ Projects {data-icon=laptop}
 ```{r projects}
 print_resume_section('projects')
 ```
-
-
-```{r file_rename, include=FALSE}
-file.rename("index.md", "README.md") 
-```
-

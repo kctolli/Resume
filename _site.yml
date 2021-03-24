@@ -8,6 +8,8 @@ output_dir: '.'
 
 output: 
   pagedown::html_resume:
-    css: ['./site_libs/resume.css', 'resume']
+    css: 
+      - ./site_libs/resume.css
+      - resume
     self_contained: true
     keep_md: true

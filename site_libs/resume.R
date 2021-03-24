@@ -25,7 +25,7 @@ print_resume_section <- function(section_id){
 
 {institution}
 
-{loc}
+N/A
 
 {end}
 
@@ -46,7 +46,7 @@ print_section_resume<- function(section_id){
 
 {institution}
 
-{loc}
+N/A
 
 {start} <br> | <br> {end}
 
@@ -74,4 +74,8 @@ render_resume <- function(){
   pagedown::chrome_print(input = tmp_html, output = glue::glue("resume.pdf"))
   
   file.remove(tmp_html) ### Delete temp html file
+  
+  ### Convert index.md to README.md
+  file.rename("index.md", "README.md") 
+  file.exists("README.md")
 }

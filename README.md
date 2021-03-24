@@ -59,13 +59,13 @@ Education {data-icon=graduation-cap}
 
 Brigham Young University - Idaho
 
-Rexburg, ID
+N/A
 
 2017 <br> | <br> 2020
 
-- Graduated with Tau Beta Pi Honors with 3.6 GPA
+- Graduated with 3.6 GPA and Tau Beta Pi Honors
 - Minor: Computer Engineering and Data Science
-- Coursework: Advanced Embedded Systems, Digital System Design, Computer Architecture, Circuit Analysis, Machine Learning, Intermediate Stats, Data Intuition, Data Wrangling, Database Development, Applied Development, System Security, Project Management, Linear Algebra, Discrete Math, Differential Calculus
+- Coursework: Advanced Embedded Systems, Digital System Design, Computer Architecture, Circuit Analysis, Machine Learning, System Security, Project Management, Intermediate Stats, Data Wrangling, Database Development, Applied Development, Linear Algebra, Discrete Math, Differential Calculus
 
 Experience {data-icon=briefcase}
 ------------------------------------
@@ -74,7 +74,7 @@ Experience {data-icon=briefcase}
 
 RBDC - Research and Business Development Center
 
-Remote
+N/A
 
 2020
 
@@ -88,7 +88,7 @@ Remote
 
 LLNL - Lawrence Livermore National Labs
 
-Remote
+N/A
 
 2020
 
@@ -102,7 +102,7 @@ Remote
 
 NASA - National Aeronautics and Space Administration
 
-Remote
+N/A
 
 2020
 
@@ -117,7 +117,7 @@ Projects {data-icon=laptop}
 
 BYU - Idaho, Computer Science and Engineering
 
-Rexburg, ID
+N/A
 
 2020
 
@@ -131,7 +131,7 @@ Rexburg, ID
 
 BYU - Idaho, Computer Science and Engineering
 
-Remote
+N/A
 
 2020
 
@@ -145,14 +145,10 @@ Remote
 
 BYU - Idaho, Computer Science and Engineering
 
-Rexburg, ID
+N/A
 
 2020
 
 - Designed and assembled electronic circuits
 - Programmed Motor Control on Arduino with Embedded C
 - Setup Raspberry Pi for Deep Learning and Computer Vision
-
-
-
-
