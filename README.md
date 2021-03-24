@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 author: Kyle Tolliver
-date: "2021-03-24"
 editor_options: 
   chunk_output_type: console
 ---
