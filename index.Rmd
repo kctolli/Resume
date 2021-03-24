@@ -1,0 +1,74 @@
+---
+title: "Resume"
+author: Kyle Tolliver
+date: "`r Sys.Date()`"
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+source("./site_libs/resume.R")
+load_libraries()
+file <- 'resume'
+```
+
+```{r render, eval=FALSE}
+render_resume()
+```
+
+Aside
+====================================
+
+Contact Info {#contact}
+------------------------------------
+
+```{r contact}
+print_contact(file)
+```
+
+Skills {#skills}
+------------------------------------
+
+```{r skill}
+print_skills()
+```
+
+Disclaimer {#disclaimer}
+------------------------------------
+
+<!-- Member of [Tau Beta Pi](https://tbp.org) <br /> Engineering Honor Society <br /> Idaho Delta chapter at BYU-Idaho. -->
+
+<!-- This resume was made with <br /> the R package [pagedown](https://github.com/rstudio/pagedown). -->
+
+Main
+====================================
+
+Kyle Tolliver {#title}
+------------------------------------
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+```{r education}
+print_section_resume('education')
+```
+
+Experience {data-icon=briefcase}
+------------------------------------
+
+```{r experience}
+print_resume_section('experience')
+```
+
+Projects {data-icon=laptop}
+------------------------------------
+
+```{r projects}
+print_resume_section('projects')
+```
+
+
+```{r file_rename, include=FALSE}
+file.rename("index.md", "README.md") 
+```
+
