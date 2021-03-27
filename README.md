@@ -33,7 +33,7 @@ Skills {#skills}
 - R / Rmd 
 - Verilog 
 - SQL 
-- HTML/CSS 
+- HTML / CSS 
 - JavaScript 
 - Java 
 - Tableau 
