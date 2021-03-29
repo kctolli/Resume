@@ -32,10 +32,10 @@ Skills {#skills}
 - C / C++ 
 - R / Rmd 
 - Verilog 
-- SQL 
 - HTML / CSS 
 - JavaScript 
-- Java 
+- SQL / NoSQL 
+- Java / C# 
 - Tableau 
 - Github 
 
