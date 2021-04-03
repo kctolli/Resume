@@ -8,11 +8,18 @@
     --pagedjs-pagebox-height: 11in;
 }
 
-:root{--sidebar-width: 12rem;}
+:root {
+    --sidebar-width: 12rem;
+}
 
-.blocks {break-inside: avoid;}
+.blocks {
+    break-inside: avoid;
+}
 
-/* Make font black & Makes links blue*/
-.pagedjs_sheet, .aside, .main {background: white; color: black; font-family: "Helvetica";}
-
-body, p, ul, a {background: white; color: black; font-family: "Helvetica";}
+/* Make font black */
+.pagedjs_sheet, .aside, .main, 
+body, p, ul, a {
+    background: white; 
+    color: black; 
+    font-family: "Helvetica";
+}
