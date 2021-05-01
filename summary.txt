@@ -1,1 +1,3 @@
-BYU-Idaho graduate with a Bachelor’s (BS) in Software Engineering. I also earned a minor in Computer Engineering and Data Science. I love to learn new things and solve problems.
+BYU-Idaho graduate with a Bachelor’s (BS) in Software Engineering. 
+I also earned a minor in Computer Engineering and Data Science. 
+I love to learn new things and solve problems.
