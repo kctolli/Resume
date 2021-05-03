@@ -78,9 +78,9 @@ N/A
 
 2020
 
-- Used Python to create functions and Machine Learning algorithms
-- Developed code in shortest path optimization for warehouse robot
-- Lead Scrum meetings and helped programmers develop code
+- Developed Python code for shortest path optimization
+- Followed Scrum methodology and Kanban (Trello) board
+- Helped programmers develop code
 
 
 
@@ -94,7 +94,7 @@ N/A
 
 - Tested security technologies using binary analysis
 - Conducted market research on new security techniques
-- Followed Scrum methodology and Kanban (Trello) board
+- Performed predictive analytics on purchase trends
 
 
 

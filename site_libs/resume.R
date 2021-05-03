@@ -1,9 +1,4 @@
-source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/js.R")
-source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/css.R")
-source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/html.R")
-source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/gsheets.R")
-source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/copyright.R")
-source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/templates.R")
+source("https://raw.githubusercontent.com/kctolli/scripting/main/Rscript/include.R")
 
 # Section Templates
 
@@ -53,7 +48,8 @@ N/A
 
 ## Knit the Resume to html and pdf
 render_resume <- function(){
-  tmp_html <- fs::file_temp(ext = ".html") ### Create a temp html file
+  ### Create a temp html file
+  tmp_html <- fs::file_temp(ext = ".html") 
   
   ### Knit the HTML version
   rmarkdown::render("index.rmd", params = list(pdf_mode = FALSE), output_file = "index.html")
@@ -64,9 +60,11 @@ render_resume <- function(){
   ### Convert to PDF using Pagedown
   pagedown::chrome_print(input = tmp_html, output = glue::glue("resume.pdf"))
   
-  file.remove(tmp_html) ### Delete temp html file
+  ### Delete temp html file
+  file.remove(tmp_html) 
   
   ### Convert index.md to README.md
   file.rename("index.md", "README.md") 
+  file.exists("index.md")
   file.exists("README.md")
 }
