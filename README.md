@@ -31,10 +31,12 @@ Skills {#skills}
 - Python 
 - C / C++ 
 - R / Rmd 
-- Verilog 
 - HTML / CSS 
 - JavaScript 
+- Node / Express JS 
 - SQL / NoSQL 
+- Verilog 
+- GoLang 
 - Java / C# 
 - Tableau 
 - Github 
@@ -52,23 +54,22 @@ Main
 Kyle Tolliver {#title}
 ------------------------------------
 
-Education {data-icon=graduation-cap}
+Experience {data-icon=briefcase}
 ------------------------------------
 
-### Bachelor of Science in Software Engineering
+### Software Developer II
 
-Brigham Young University - Idaho
+Younique Products
 
 N/A
 
-2017 <br> | <br> 2020
+2021 <br> | <br> Present
 
-- Graduated with 3.6 GPA and Tau Beta Pi Honors
-- Minor: Computer Engineering and Data Science
-- Coursework: Advanced Embedded Systems, Digital System Design, Computer Architecture, Circuit Analysis, Machine Learning, System Security, Project Management, Intermediate Stats, Data Wrangling, Database Development, Applied Development, Linear Algebra, Discrete Math, Differential Calculus
+- Improved and maintained systems to be optimized and secure
+- Researched and implemented efficient software systems
+- Wrote maintained legacy features and deployed new features
 
-Experience {data-icon=briefcase}
-------------------------------------
+
 
 ### Assistant Project Manager
 
@@ -109,6 +110,20 @@ N/A
 - Developed C interface for the sensors in NASA's future Spacesuit
 - Benchmark tested PolarFire microprocessor in C++
 - Setup a website using Rmds, CSS and Yaml
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### Bachelor of Science in Software Engineering
+
+Brigham Young University - Idaho
+
+N/A
+
+2017 <br> | <br> 2020
+
+- Graduated with 3.6 GPA and Tau Beta Pi Honors
+- Minor: Computer Engineering and Data Science
 
 Projects {data-icon=laptop}
 ------------------------------------
