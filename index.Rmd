@@ -7,11 +7,10 @@ editor_options:
 
 ```{r setup, include=FALSE}
 source("./site_libs/resume.R")
-file <- 'resume'
 ```
 
 ```{r render, eval=FALSE}
-render_resume()
+render_resume('resume')
 ```
 
 Aside
@@ -21,7 +20,7 @@ Contact Info {#contact}
 ------------------------------------
 
 ```{r contact}
-print_contact(file)
+print_contact('resume')
 ```
 
 Skills {#skills}
@@ -44,19 +43,27 @@ Main
 Kyle Tolliver {#title}
 ------------------------------------
 
-Education {data-icon=graduation-cap}
-------------------------------------
-
-```{r education}
-print_section_resume('education')
-```
-
 Experience {data-icon=briefcase}
 ------------------------------------
 
-```{r experience}
-print_resume_section('experience')
+```{r work}
+print_section_resume('experience')
+print_resume_section('internship')
 ```
+
+Education {data-icon=graduation-cap}
+------------------------------------
+
+### Bachelor of Science in Software Engineering
+
+Brigham Young University - Idaho
+
+N/A
+
+2017 <br> | <br> 2020
+
+- Graduated with 3.6 GPA and Tau Beta Pi Honors
+- Minor: Computer Engineering and Data Science
 
 Projects {data-icon=laptop}
 ------------------------------------
