@@ -7,11 +7,10 @@ editor_options:
 
 ```{r setup, include=FALSE}
 source("./site_libs/resume.R")
-file <- 'resume'
 ```
 
 ```{r render, eval=FALSE}
-render_resume()
+render_resume('resume')
 ```
 
 Aside
@@ -21,7 +20,7 @@ Contact Info {#contact}
 ------------------------------------
 
 ```{r contact}
-print_contact(file)
+print_contact('resume')
 ```
 
 Skills {#skills}
@@ -54,8 +53,9 @@ print_section_resume('education')
 Experience {data-icon=briefcase}
 ------------------------------------
 
-```{r experience}
-print_resume_section('experience')
+```{r work}
+# print_section_resume('experience')
+print_resume_section('internship')
 ```
 
 Projects {data-icon=laptop}
