@@ -1,6 +1,7 @@
 ---
 title: "Resume"
 author: Kyle Tolliver
+
 editor_options: 
   chunk_output_type: console
 ---
@@ -29,14 +30,13 @@ Skills {#skills}
 ------------------------------------
 
 - Python 
-- C / C++ 
 - R / Rmd 
 - HTML / CSS 
 - JavaScript 
 - Node / Express JS 
 - SQL / NoSQL 
-- Verilog 
 - GoLang 
+- C / C++ 
 - Java / C# 
 - Tableau 
 - Github 
@@ -67,7 +67,7 @@ N/A
 
 - Improved and maintained systems to be optimized and secure
 - Researched and implemented efficient software systems
-- Wrote maintained legacy features and deployed new features
+- Maintained legacy features and deployed new features
 
 
 
