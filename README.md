@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 author: Kyle Tolliver
-
 editor_options: 
   chunk_output_type: console
 ---
@@ -35,18 +34,16 @@ Skills {#skills}
 - JavaScript 
 - Node / Express JS 
 - SQL / NoSQL 
+- Dynamodb 
 - GoLang 
-- C / C++ 
-- Java / C# 
+- C / C++ / C# / Java 
 - Tableau 
-- Github 
+- GitHub / GitFlow 
 
 Disclaimer {#disclaimer}
 ------------------------------------
 
-<!-- Member of [Tau Beta Pi](https://tbp.org) <br /> Engineering Honor Society <br /> Idaho Delta chapter at BYU-Idaho. -->
 
-<!-- This resume was made with <br /> the R package [pagedown](https://github.com/rstudio/pagedown). -->
 
 Main
 ====================================
@@ -65,9 +62,9 @@ N/A
 
 2021 <br> | <br> Present
 
-- Improved and maintained systems to be optimized and secure
-- Researched and implemented efficient software systems
-- Maintained legacy features and deployed new features
+- Backend Development with tools such as Node JS,  AWS, and Dynamodb
+- Improved systems to be secure with the Node Package Manager
+- Maintained legacy features, and deployed new features using the DERN stack
 
 
 

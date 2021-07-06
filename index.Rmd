@@ -1,7 +1,6 @@
 ---
 title: "Resume"
 author: Kyle Tolliver
-
 editor_options: 
   chunk_output_type: console
 ---
@@ -34,9 +33,7 @@ print_skills()
 Disclaimer {#disclaimer}
 ------------------------------------
 
-<!-- Member of [Tau Beta Pi](https://tbp.org) <br /> Engineering Honor Society <br /> Idaho Delta chapter at BYU-Idaho. -->
 
-<!-- This resume was made with <br /> the R package [pagedown](https://github.com/rstudio/pagedown). -->
 
 Main
 ====================================
