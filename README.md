@@ -30,15 +30,16 @@ Skills {#skills}
 
 - Python 
 - R / Rmd 
-- HTML / CSS 
-- JavaScript 
+- HTML / CSS / JS 
 - Node / Express JS 
+- React JS 
 - SQL / NoSQL 
-- Dynamodb 
-- GoLang 
-- C / C++ / C# / Java 
+- AWS / Docker 
+- C / C++ 
+- C# / Java 
 - Tableau 
-- GitHub / GitFlow 
+- Git / Gitflow 
+- Scrum 
 
 Disclaimer {#disclaimer}
 ------------------------------------
@@ -62,11 +63,37 @@ N/A
 
 2021 <br> | <br> Present
 
-- Backend Development with tools such as Node JS,  AWS, and Dynamodb
-- Improved systems to be secure with the Node Package Manager
-- Maintained legacy features, and deployed new features using the DERN stack
+- Web Development with tools such as Javascript, AWS, Docker, and Databases
+- Used PHP and NPM to improve security with Excel for vulnerablity tracking
+- Worked closely with Marketing and BI on product and feature releases
 
+Education {data-icon=graduation-cap}
+------------------------------------
 
+### Bachelor of Science in Software Engineering
+
+Brigham Young University - Idaho
+
+N/A
+
+2017 <br> | <br> 2020
+
+- Graduated with 3.6 GPA and Tau Beta Pi Honors
+- Minor: Data Science and Computer Engineering
+
+### Web Development Bootcamp
+
+Udemy - Dr. Angela Yu
+
+N/A
+
+2021
+
+- Spent over 55 hours studying full stack development
+- Increased knowledge of Node, Express, React, Databases and more
+
+Interships and Projects {data-icon=laptop}
+------------------------------------
 
 ### Assistant Project Manager
 
@@ -108,22 +135,7 @@ N/A
 - Benchmark tested PolarFire microprocessor in C++
 - Setup a website using Rmds, CSS and Yaml
 
-Education {data-icon=graduation-cap}
-------------------------------------
 
-### Bachelor of Science in Software Engineering
-
-Brigham Young University - Idaho
-
-N/A
-
-2017 <br> | <br> 2020
-
-- Graduated with 3.6 GPA and Tau Beta Pi Honors
-- Minor: Computer Engineering and Data Science
-
-Projects {data-icon=laptop}
-------------------------------------
 
 ### Spotify Predictive Analytics
 
@@ -150,17 +162,3 @@ N/A
 - Developed a data website using R, Rmds and Yaml
 - Explored different datasets to determine viable information
 - Visualized the data to make the data easily understood
-
-
-
-### Self Driving Car
-
-BYU - Idaho, Computer Science and Engineering
-
-N/A
-
-2020
-
-- Designed and assembled electronic circuits
-- Programmed Motor Control on Arduino with Embedded C
-- Setup Raspberry Pi for Deep Learning and Computer Vision
