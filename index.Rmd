@@ -46,7 +46,6 @@ Experience {data-icon=briefcase}
 
 ```{r work}
 print_section_resume('experience')
-print_resume_section('internship')
 ```
 
 Education {data-icon=graduation-cap}
@@ -61,11 +60,23 @@ N/A
 2017 <br> | <br> 2020
 
 - Graduated with 3.6 GPA and Tau Beta Pi Honors
-- Minor: Computer Engineering and Data Science
+- Minor: Data Science and Computer Engineering
 
-Projects {data-icon=laptop}
+### Web Development Bootcamp
+
+Udemy - Dr. Angela Yu
+
+N/A
+
+2021
+
+- Spent over 55 hours studying full stack development
+- Increased knowledge of Node, Express, React, Databases and more
+
+Interships and Projects {data-icon=laptop}
 ------------------------------------
 
 ```{r projects}
+print_resume_section('internship')
 print_resume_section('projects')
 ```
